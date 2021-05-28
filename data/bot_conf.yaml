@@ -1,0 +1,48 @@
+# DaisyXBot example config
+
+
+# Basic
+TOKEN: "1838208004:AAFWx_a_8sHKOrfU7kE-y8npuBkXXrugJ1s"
+
+# Get they in https://my.telegram.org/
+APP_ID: 1733305
+APP_HASH: "f423cffca6b5b7247b31b5b0df61f48d"
+
+#Generate a telethon str session  with https://repl.it/@SpEcHiDe/GenerateStringSession (telethon one)
+STRING_SESSION: "BQCrG0ThU4aATh1WoXgYmlbAK0_0f5UXBb2NQUsQE3xI0Xm6wUkz8erLkTG-KWrBo2OSHVxIhgQJQUUChp5onyaX_50h2Sp6wDa84CHX8GMRIkqp-R3S9a0XqVaLd8kDPKWjjO14aWe1WVAY59-8WmBQr_l6B-tJoFaKVGLoNuh0fthcc8yKM7n7SWThmHhaNHTOKqOabyAvYiKnLto9fam7FDT5LGzBJu4vnkxfNZmEUQo45HDdHhAbSmTWPg2sYlKXMm5q6c5GNGy8tpg4eC60tQ7zd9Fa1KS61Jk3tWe325fCgVgcYvaS9dR6U8Dvo3ULGgVUBmInPZ8yY44vKTRPBFaQA"
+
+
+MONGO_URI: "mongodb+srv://kaj:kaj@cluster0.xyylh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+
+MONGO_URI2: ""
+MONGO_PORT: 27017
+MONGO_DB': 'DaisyX'
+
+API_PORT': 8080
+
+REDIS_URI: "redis-10525.c259.us-central1-2.gce.cloud.redislabs.com"
+REDIS_PORT: 10525
+REDIS_PASS: "5e22nl5yjjqG1T5vTZF4JhVcL3gIow57"
+TEMP_MAIL_KEY: ""
+OWNER_ID: 1156597097
+OPERATORS: [1156597097]
+SUPPORT_CHAT: -1001403747755
+LYDIA_API_KEY: ""
+
+DATABASE_URL: ""
+VIRUS_API_KEY: ""
+TIME_API_KEY: ""
+REM_BG_API_KEY: ""
+ARQ_API: "NEUUFF-UOZTKW-EJVIRH-SGEYIG-ARQ"
+
+# Advanced
+SW_API: ""
+IBM_WATSON_CRED_URL: ""
+IBM_WATSON_CRED_PASSWORD: ""
+OPENWEATHERMAP_ID: ""
+WOLFRAM_ID: ""
+DEBUG_MODE: False
+LOAD_MODULES: True
+LOGS_CHANNEL_ID: -000000000
+ALLOW_FORWARDS_COMMANDS: False
+ALLOW_EXCEL: False
